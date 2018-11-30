@@ -1,0 +1,16 @@
+{
+  "name": "vbridge",
+  "version": "0.0.1",
+  "description": "A simple, clean, and efficient adaptor for ASP.NET's Data Validation Attributes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amura",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
