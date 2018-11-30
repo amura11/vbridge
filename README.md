@@ -79,7 +79,7 @@ UrlAttribute | :heavy_check_mark: | No direct support, uses Regex validation
 Symbol | Meaning
 -------|--------
 :heavy_check_mark: | Fully Supported
-:o: | Partial Supported (See Notes)
+:o: | Partially Supported (See Notes)
 :x: | Not Supported
 
 # Tasks
@@ -89,8 +89,8 @@ Symbol | Meaning
 - :white_square_button: Semantic UI file validation rule
 - :black_square_button: Provider documentation
 - :black_square_button: "Creating a provider" documentation
-- :black_square_button: Provider for [Foundation](https://foundation.zurb.com/sites/docs/abide.html)
-- :black_square_button: Provider for [jQuery Form Validator](http://www.formvalidator.net)
+- :black_square_button: Module for [Foundation](https://foundation.zurb.com/sites/docs/abide.html)
+- :black_square_button: Module for [jQuery Form Validator](http://www.formvalidator.net)
 
 
 ## Legend
